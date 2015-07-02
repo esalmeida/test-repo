@@ -1,0 +1,1 @@
+insert into sceweb.usuario (userID, senha) values ('usuario2', '2222')
